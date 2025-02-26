@@ -84,7 +84,7 @@ In the Admins OU, we'll create a new user named Ken Doe with the username ken_ad
 <br />
 
 <p>
-<img src="https://i.imgur.com/lHZsq7U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MlsxnCp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next, we'll add Mo Uddin as a Domain Admin. Right-click the user, select Properties, navigate to the Member Of tab, and click Add. In the "Enter object names" field, type Domain Admins and press Enter to complete the process.
