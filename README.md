@@ -79,7 +79,7 @@ Next, we'll open Active Directory Users and Computers and create two organizatio
 <img src="https://i.imgur.com/nvMuS1h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the Admins OU, we'll create a new user named Ken Doe with the username ken_admin. 
+In the Admins OU, we'll create a new user named Mo Uddin with the username Mo Uddin. 
 </p>
 <br />
 
@@ -95,7 +95,7 @@ Next, we'll add Mo Uddin as a Domain Admin. Right-click the user, select Propert
 <img src="https://i.imgur.com/UUUnyzZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now, log out of DC-1 and reconnect using RDP with the credentials mydomain.com\ken_admin and the assigned password. This account will be used for all future logins to DC-1.
+Now, log out of DC-1 and reconnect using RDP with the credentials mydomain.com\mo_uddin and the assigned password. This account will be used for all future logins to DC-1.
 </p>
 <br />
 
@@ -127,7 +127,7 @@ Next, log into the Client1 VM as Mo_Uddin. Right-click the Windows logo, select 
 <img src="https://i.imgur.com/DoCgqOP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1 Log in to DC-1 as ken_admin and open PowerShell ISE as an administrator. Create a new file, paste the script into it, and execute it. Observe as the accounts are created automatically.
+https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1 Log in to DC-1 as mo_uddin and open PowerShell ISE as an administrator. Create a new file, paste the script into it, and execute it. Observe as the accounts are created automatically.
 </p>
 <br />
 
