@@ -76,7 +76,7 @@ Next, we'll open Active Directory Users and Computers and create two organizatio
 <br />
 
 <p>
-<img src="https://i.imgur.com/lj5a6an.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nvMuS1h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the Admins OU, we'll create a new user named Ken Doe with the username ken_admin. 
